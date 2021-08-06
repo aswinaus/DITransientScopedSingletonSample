@@ -1,0 +1,1 @@
+# DITransientScopedSingletonSample
