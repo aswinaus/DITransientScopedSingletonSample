@@ -1,4 +1,4 @@
-# DITransientScopedSingletonSample
+# Dependency Injection Transient-Scoped-Singleton Sample
 Dependency Inject Sample with three forms explained with example.
 
 **Request One**
